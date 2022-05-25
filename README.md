@@ -18,7 +18,7 @@
   
 ### Construído com 
 
-* [Spring-Boot]([https://maven.apache.org/](https://spring.io/projects/spring-boot))
+ * [Spring-Boot](https://spring.io/projects/spring-boot)
 
 <h3> Rodar, buildar e/ou testar o projeto:</h3>
 
