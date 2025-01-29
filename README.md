@@ -1,3 +1,5 @@
+[![Java CI](https://github.com/lucianoromero/tabalho_laboratorio_de_projeto_de_sistemas/actions/workflows/maven.yml/badge.svg)](https://github.com/lucianoromero/tabalho_laboratorio_de_projeto_de_sistemas/actions/workflows/maven.yml)
+
  ### API PARA O GERENCIAMENTO E CONTROLE DE ENTREGAS ###  
  
 **API, fará o gerenciamento e controle de entrega.**
